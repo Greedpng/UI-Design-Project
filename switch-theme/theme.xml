@@ -1,11 +1,4 @@
-<!--
-theme name:		Switch-Dark
-version:		2.0
-author:			Lilbud
-email:			bvw20002010@gmail.com
-license:		creative commons CC-BY-NC-SA
-based on:       Switch Theme for Launchbox by Grila
--->
+
 
 <theme>
     <formatVersion>4</formatVersion>
@@ -17,7 +10,7 @@ based on:       Switch Theme for Launchbox by Grila
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./assets/bg.png</path>
+			<path>./assets/project.png</path>
 		</image>
 		
 		<helpsystem name="help">
